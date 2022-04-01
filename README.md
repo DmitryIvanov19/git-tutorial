@@ -5,9 +5,17 @@
 
   <a href="#"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
- <ul> 
-   <li>play with clew</li> 
-   <li>drink milk</li> 
-   <li>sleep</li>
-   </ul>
+  <p>Things cats love:</p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p> 
+  <ol> 
+    <li>water</li>
+    <li>dogs</li>
+    <li>fleas </li> 
+    </ol>
+
 </main>
