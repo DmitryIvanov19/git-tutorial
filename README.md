@@ -17,5 +17,5 @@
     <li>dogs</li>
     <li>fleas </li> 
     </ol>
-     <input type="text">
+   <input type= text placeholder   = "cat photo URL">
 </main>
