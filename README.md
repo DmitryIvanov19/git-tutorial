@@ -11,13 +11,13 @@
     <li>laser pointers</li>
     <li>lasagna</li>
   </ul>
-  <p>Top 3 things cats hate:</p> 
-  <ol> 
-    <li>water</li>
-    <li>dogs</li>
-    <li>fleas </li> 
-    </ol>
-   <form action="https://www.freecatphotoapp.com/submit-cat-photo">
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+  <form action="https://www.freecatphotoapp.com/submit-cat-photo">
     <input type="text" placeholder="cat photo URL"> 
     <button type="submit">Submit</button>
   </form>
