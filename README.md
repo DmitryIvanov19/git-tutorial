@@ -17,5 +17,7 @@
     <li>dogs</li>
     <li>fleas </li> 
     </ol>
-   <input type= text placeholder   = "cat photo URL">
+    <form action="https://www.freecatphotoapp.com/submit-cat-photo">
+  <input type="text" placeholder="cat photo URL">
+</form>
 </main>
